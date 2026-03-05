@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Ritesh Rajput
 
 # 💫 About Me:
-🎓 IT student | Aspiring Full-Stack Developer<br>   💻 Passionate about **JavaScript, React, and Web Development**<br>🌐 Exploring open-source projects and building real-world applications
+🎓 IT student | Aspiring Mern-Stack Developer<br>   💻 Passionate about **JavaScript, React, Node.js, Express.js, MongoDB and Web Development**<br>🌐 Exploring open-source projects and building real-world applications
 
 
 ## 🌐 Socials:
