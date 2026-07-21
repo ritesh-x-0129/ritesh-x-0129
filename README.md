@@ -50,8 +50,7 @@ Currently, I'm focused on strengthening my JavaScript fundamentals, solving Code
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ritesh-x-0129&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-
+https://streak-stats.demolab.com?user=ritesh-x-0129&theme=github-dark&hide_border=true
 ---
 
 ## 📈 Most Used Languages
