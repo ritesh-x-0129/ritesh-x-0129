@@ -40,11 +40,7 @@ Currently, I'm focused on strengthening my JavaScript fundamentals, solving Code
 
 ---
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ritesh-x-0129&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
----
 
 ## 🔥 GitHub Streak
 
