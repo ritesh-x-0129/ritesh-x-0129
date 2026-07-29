@@ -13,24 +13,24 @@ I have solved **150+ JavaScript Codewars katas** while documenting every solutio
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rajput-ritesh">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <a href="https://www.linkedin.com/in/rajput-ritesh" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
   </a>
-
-  <a href="https://github.com/ritesh-x-0129">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/ritesh-x-0129" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" height="42"/>
   </a>
-
-  <a href="https://www.codewars.com/users/Ritesh%20Rajput%20">
-    <img src="https://cdn.simpleicons.org/codewars/B1361E" height="40" />
+  &nbsp;&nbsp;
+  <a href="https://www.codewars.com/users/Ritesh%20Rajput%20" title="Codewars">
+    <img src="https://cdn.simpleicons.org/codewars/B1361E" height="42"/>
   </a>
-
-  <a href="mailto:atulr9848@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  &nbsp;&nbsp;
+  <a href="mailto:atulr9848@gmail.com" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
   </a>
-
-  <a href="https://www.instagram.com/r.itesh.69">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" />
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/r.itesh.69" title="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="42"/>
   </a>
 </p>
 
