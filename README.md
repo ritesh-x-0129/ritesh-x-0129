@@ -6,17 +6,56 @@
 
 I'm an IT student passionate about **Web Development** and **Problem Solving**.
 
-Currently, I'm focused on strengthening my JavaScript fundamentals, solving Codewars challenges consistently, learning Data Structures & Algorithms, and becoming job-ready as a MERN Stack Developer.
+I have solved **150+ JavaScript Codewars katas** while documenting every solution on GitHub. My current focus is mastering the MERN Stack, strengthening DSA with JavaScript, and building real-world projects to become a job-ready Software Developer.
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/rajput-ritesh">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.codewars.com/users/Ritesh%20Rajput%20">
+<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ritesh-x-0129">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/r.itesh.69">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:atulr9848@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 ## 🚀 Current Focus
 
-- 💻 Solving Codewars Katas consistently
+- 🧩 Solved **150+ Codewars Katas**
+- 💻 Solving new Codewars challenges consistently
 - 📚 Learning Data Structures & Algorithms
 - ⚛️ Mastering React.js
 - 🌐 Building MERN Stack Projects
 - 🤝 Preparing for Software Development Internships
+
+---
+
+## 🏆 Highlights
+
+- 🧩 **150+ Codewars Katas Solved**
+- 📂 Every solution documented with its own README
+- 💻 Building real-world MERN Stack Projects
+- 📚 Learning DSA with JavaScript
+- 🌱 Preparing for Open Source Contributions
 
 ---
 
@@ -35,12 +74,10 @@ Currently, I'm focused on strengthening my JavaScript fundamentals, solving Code
 ## 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
 </p>
 
 ---
-
-
 
 ## 🔥 GitHub Streak
 
@@ -56,31 +93,12 @@ Currently, I'm focused on strengthening my JavaScript fundamentals, solving Code
 
 ## 🎯 2026 Goals
 
-- ✅ Solve **200+ Codewars Katas**
+- ✅ Solved **150 Codewars Katas** 🎉
+- 🎯 Reach **200+ Codewars Katas**
 - 🚀 Build **8+ MERN Stack Projects**
 - 📚 Become confident in DSA with JavaScript
 - 🤝 Make my first Open Source Contribution
 - 💼 Land my first Software Development Internship
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/rajput-ritesh">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/r.itesh.69">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:atulr9848@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
