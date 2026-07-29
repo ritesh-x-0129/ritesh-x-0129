@@ -13,27 +13,25 @@ I have solved **150+ JavaScript Codewars katas** while documenting every solutio
 ## 🌐 Connect with Me
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/rajput-ritesh">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
 
-<a href="https://www.linkedin.com/in/rajput-ritesh">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://github.com/ritesh-x-0129">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
 
-<a href="https://www.codewars.com/users/Ritesh%20Rajput%20">
-<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/>
-</a>
+  <a href="https://www.codewars.com/users/Ritesh%20Rajput%20">
+    <img src="https://cdn.simpleicons.org/codewars/B1361E" height="40" />
+  </a>
 
-<a href="https://github.com/ritesh-x-0129">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="mailto:atulr9848@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
 
-<a href="https://www.instagram.com/r.itesh.69">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:atulr9848@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://www.instagram.com/r.itesh.69">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" />
+  </a>
 </p>
 
 ---
