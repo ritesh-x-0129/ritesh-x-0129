@@ -55,7 +55,7 @@ My goal is to become a **job-ready Software Developer** by strengthening my fund
 
 > 🏆 **200 JavaScript Codewars Katas completed!**
 >
-> Codewars will continue, but it is no longer my primary learning focus. I'm now prioritizing deeper JavaScript knowledge, React, DSA, and real-world development.
+> Codewars will continue as regular problem-solving practice, but it is no longer my primary learning focus. My priority is now deeper JavaScript knowledge, React, DSA, and real-world development.
 
 ---
 
@@ -101,17 +101,17 @@ My goal is to become a **job-ready Software Developer** by strengthening my fund
 
 - Data Structures & Algorithms
 - Problem Solving
-- DBMS fundamentals
-- Operating Systems fundamentals
-- Computer Networks fundamentals
+- DBMS Fundamentals
+- Operating Systems Fundamentals
+- Computer Networks Fundamentals
 
 ### Backend
 
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-- Authentication
+- Node.js *(Next)*
+- Express.js *(Next)*
+- MongoDB *(Next)*
+- REST APIs *(Next)*
+- Authentication *(Next)*
 
 ---
 
@@ -191,7 +191,7 @@ Each project is being built with a focus on **functionality, clean UI, responsiv
 
 ## 🎯 2026 Goals
 
-- ✅ Complete **200+ JavaScript Codewars Katas**
+- ✅ **200+ JavaScript Codewars Katas Completed** 🎉
 - ⚡ Become confident in **Advanced JavaScript**
 - ⚛️ Become proficient in **React.js**
 - 🧠 Strengthen **DSA with JavaScript**
@@ -201,10 +201,10 @@ Each project is being built with a focus on **functionality, clean UI, responsiv
 - 💼 Land my first **Software Development Internship**
 
 ---
-
+```text
 ## 📈 My Development Journey
 
-```text
+
 JavaScript Fundamentals
         ↓
 200+ Codewars Katas ✅
@@ -222,3 +222,14 @@ MongoDB
 Full-Stack MERN Projects
         ↓
 Internship / Job
+```
+
+---
+
+## ⭐ Thanks for Visiting!
+
+I’m continuously learning, building, and improving as a developer.
+
+Feel free to explore my repositories, follow my progress, or connect with me.
+
+**Keep learning. Keep building. Keep solving. 🚀**
